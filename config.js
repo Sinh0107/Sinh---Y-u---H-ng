@@ -1,8 +1,8 @@
 const CONFIG = {
     introTitle: 'Êy Tuấn ơi!',
     introDesc: `Cho t hỏi xíu?? `,
-    btnIntro: 'hỏi đi ',
-    title: 'có mấy loại tơ ',
+    btnIntro: 'hỏi đi.',
+    title: 'có mấy loại tơ ?? ',
     desc: 'cho ví dụ ',
     btnYes: '3 loại',
     btnNo: '2 loại',
